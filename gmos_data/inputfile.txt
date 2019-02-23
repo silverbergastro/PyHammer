@@ -1,4 +1,4 @@
-gmos_data/WISEA_J044634.16_262756.1A_cleaned.fits
-gmos_data/WISEA_J044634.16_262756.1B_cleaned.fits
-gmos_data/WISEA_J094900.65_713803.1A_cleaned.fits
-gmos_data/WISEA_J094900.65_713803.1B_cleaned.fits
+gmos_data/WISEA_J0446A_20190222_cleaned.fits
+gmos_data/WISEA_J0446B_20190222_cleaned.fits
+gmos_data/WISEA_J0949A_20190222_cleaned.fits
+gmos_data/WISEA_J0949B_20190222_cleaned.fits
